@@ -1,5 +1,5 @@
 # chemicam_open_database
-This database contains in situ LIBS spectra of deep-sea rocks at 1000 m water depth obtained using ChemiCam, a 3000 m depth rated in situ deep-sea long-pulse LIBS analyser. 
+This database contains in situ LIBS spectra of deep-sea rocks at 1000 m water depth obtained using ChemiCam, a 3000 m depth rated in situ deep-sea long-pulse LIBS analyser, developed in Institute of Industrial Science, the University of Tokyo, Japan. 
 LIBS spectra of underwater targets taken using the same system in laboratory, system calibration data, and composition information of measured targets are also included in this database.
 
 Please cite the following paper if using the database:
