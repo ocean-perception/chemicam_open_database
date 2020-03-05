@@ -1,12 +1,12 @@
 # chemicam_open_database
-This database contains in situ LIBS spectra of deep-sea rocks at 1000 m water depth obtained using ChemiCam, a 3000 m depth rated in situ deep-sea long-pulse LIBS analyser, developed in Institute of Industrial Science, the University of Tokyo, Japan. 
-LIBS spectra of underwater targets taken using the same system in laboratory, system calibration data, and composition information of measured targets are also included in this database.
-
 Please cite the following paper if using the database:
 
 Tomoko Takahashi, Soichi Yoshino, Yutaro Takaya, Tatuo Nozaki, Koichi Ohki, Toshihiko Ohki, Tetsuo Sakka, and Blair Thornton, 
 Quantitative in situ mapping of elements in deep-sea hydrothermal vents using laser-induced breakdown spectroscopy and multivariate analysis, 
 Deep Sea Research Part I: Oceanographic Research Papers (2020): 103232, in press:　https://doi.org/10.1016/j.dsr.2020.103232
+
+This database contains in situ LIBS spectra of deep-sea rocks at 1000 m water depth obtained using ChemiCam, a 3000 m depth rated in situ deep-sea long-pulse LIBS analyser, developed in Institute of Industrial Science, the University of Tokyo, Japan. 
+LIBS spectra of underwater targets taken using the same system in laboratory, system calibration data, and composition information of measured targets are also included in this database.
 
 The detail information of the setup and conditions can be obtained from the paper. 
 
