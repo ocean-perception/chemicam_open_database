@@ -44,7 +44,7 @@ The folder "In-situ" contains in situ spectra taken at deep-sea, where are store
 
 The file format is csv, and each column indicate as follows:
 | 1 | 2 | 3 | 4-6 | 7 | 8 | 9-10 | 11-1034 |  
-|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|--------|--------|--------|
 | Date; yyyymmdd | Time; hhmmss | Time (ms) | Intarnal condition | Gate width (s) | Gate delay (s)* | Intarnal condition | Spectral information |
 * From the data taken in 2016, a gate delay is set from an electric signal, corresponds to 300-400 ns from an optical laser. *i.e.* The gate delay is 400 ns from an optical laser pulse in most of the data. 
 
