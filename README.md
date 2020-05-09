@@ -39,7 +39,7 @@ If the sample is georeferenced the coordinates should be included as an addition
 
 ## spectraDB
 
-The folder "Laboratory" contains spectra of underwater solids (metal alloys, sheets and pelletised powder samples of rocks and sediments) taken in laboratory. The metal samples were submerged in DI water and polletised powder samples were submerged in seawater. 
+The folder "Laboratory" contains spectra of underwater solids (metal alloys, sheets and pelletised powder samples of rocks and sediments) taken in laboratory. The metal samples were submerged in DI water and pelletised powder samples were submerged in seawater. 
 The folder "In-situ" contains in situ spectra taken at deep-sea, where are stored in folders with a name of a cruise number. 
 
 The file format is csv, and each column indicate as follows:
