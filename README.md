@@ -13,7 +13,8 @@ The detail information of the setup and conditions can be obtained from the pape
 ## calibrationDB
 
 Wavelength calibration file showing corresponding wavelength of each pixel
-ChemiCamF_wavelength_20151212.txt
+ChemiCamF_wavelength_new.txt: for data taken before 2015/12/12
+ChemiCamF_wavelength_20151212.txt: for data taken after 2015/12/12
 
 Sensitivity calibration files showing intensity of each pixel with a standard calibration lamp
 chemicamF_calib_250-570_150805.txt
